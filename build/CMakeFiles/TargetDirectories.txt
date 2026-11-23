@@ -1,0 +1,3 @@
+/home/J19/RM_Vision_Homework/build/CMakeFiles/vision_hw.dir
+/home/J19/RM_Vision_Homework/build/CMakeFiles/edit_cache.dir
+/home/J19/RM_Vision_Homework/build/CMakeFiles/rebuild_cache.dir
